@@ -8,6 +8,9 @@ Nothing
   <img src="https://profile-counter.glitch.me/levi52/count.svg" />
 </p>
 
+<p align="center"> 
+  <img src="asserts/LOGODS3.png" style="zoom:50%;" />
+</p>
 
 <!--
 **levi52/levi52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
